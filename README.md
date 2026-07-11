@@ -11,15 +11,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/harsh-kumar-860027397">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/linkedin.png" width="55"/>
 </a>
 
 <a href="https://x.com/Mr_Harsh_005">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.icons8.com/ios-filled/100/ffffff/twitterx.png" width="55"/>
 </a>
 
 <a href="https://instagram.com/beiiing_harsh">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/instagram-new.png" width="55"/>
 </a>
 
 </p>
@@ -32,28 +32,19 @@
 
 # 🚀 About Me
 
-```java
-class HarshKumar {
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-    String education = "B.Tech CSE";
+- 🎓 **B.Tech CSE Student**
+- 💻 **Full-Stack Developer**
+- ☕ **Java Developer**
+- 📚 **DSA Enthusiast**
+- 🤖 **Exploring AI & Machine Learning**
+- 🌱 Currently learning **Spring Boot, React & System Design**
+- 🏆 Participated in **4+ Hackathons**
+- 🚀 Built **5+ Real-World Projects**
+- 🌍 Passionate about solving real-world engineering problems
 
-    String[] interests = {
-        "Full Stack Development",
-        "Java",
-        "DSA",
-        "AI/ML",
-        "Open Source"
-    };
-
-    String currentlyLearning =
-        "Spring Boot • React • System Design";
-
-    String funFact =
-        "I enjoy solving real-world problems through code.";
-}
-```
-
----
+<br clear="right"/>
 
 # 💻 Tech Stack
 
