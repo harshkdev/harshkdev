@@ -11,15 +11,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/harsh-kumar-860027397">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="55"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Mr_Harsh_005">
-<img src="https://img.icons8.com/ios-filled/100/ffffff/twitterx.png" width="55"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/beiiing_harsh">
-<img src="https://img.icons8.com/color/96/instagram-new.png" width="55"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -35,14 +39,12 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 **B.Tech CSE Student**
-- 💻 **Full-Stack Developer**
-- ☕ **Java Developer**
-- 📚 **DSA Enthusiast**
+- 💻 **Full-Stack Developer** building with Java, Spring Boot, and React
+- 📚 **DSA Enthusiast** — solving problems and sharpening fundamentals
 - 🤖 **Exploring AI & Machine Learning**
-- 🌱 Currently learning **Spring Boot, React & System Design**
-- 🏆 Participated in **4+ Hackathons**
-- 🚀 Built **5+ Real-World Projects**
-- 🌍 Passionate about solving real-world engineering problems
+- 🏆 **4+ Hackathons** participated • **5+ Real-World Projects** built
+- 🌍 Passionate about solving real-world engineering problems with code
+- 🌱 Currently deepening my skills in **Spring Boot, React & System Design**
 
 <br clear="right"/>
 
@@ -51,40 +53,21 @@
 <div align="center">
 
 ### 👨‍💻 Languages
-
 <img src="https://skillicons.dev/icons?i=java,python,c,js"/>
 
 ### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react"/>
 
 ### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 
 ### 🗄️ Database
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 ### 🛠️ Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-🏆 Participated in **4+ Hackathons**
-
-🚀 Built **5+ Real-World Projects**
-
-📚 Learning Java & Data Structures
-
-🤖 Exploring AI & Machine Learning
-
-🌍 Passionate about solving real-world engineering problems
 
 ---
 
@@ -96,11 +79,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=harshkdev&theme=tokyonight&hide_border=true"/>
 
@@ -124,6 +103,9 @@
 
 <img src="https://raw.githubusercontent.com/harshkdev/harshkdev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
+<!-- ⚠️ Note: this only renders if the snake-generation GitHub Action is set up
+     in your harshkdev/harshkdev repo. Verify it's running, or remove this section. -->
+
 </div>
 
 ---
@@ -132,33 +114,27 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<!-- 🔗 Replace these href values with your actual profile URLs -->
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
-
-# ✨ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 # 🚀 Featured Projects
 
@@ -168,36 +144,34 @@
 <td width="50%">
 
 ### ⚡ Underground Cable Fault Detection System
-
-IoT-based system for detecting underground electrical cables without excavation.
+IoT-based system for detecting underground electrical cable faults without excavation.
 
 **Tech Stack**
-
 `IoT` `Arduino` `Sensors` `Embedded Systems`
 
 **Highlights**
-
-- 🔹 Detects underground cables
+- 🔹 Detects underground cable faults
 - 🔹 Reduces unnecessary digging
 - 🔹 Real-time monitoring
+
+🔗 [Repo](https://github.com/harshkdev/REPO_NAME) • 🚀 [Demo](#)
 
 </td>
 
 <td width="50%">
 
 ### 📡 Micro-Failure Early Warning System
-
 AI-powered monitoring system that predicts equipment failures before they occur.
 
 **Tech Stack**
-
 `AI` `IoT` `Python`
 
 **Highlights**
-
 - 🔹 Predictive maintenance
 - 🔹 Early warning alerts
 - 🔹 Real-time sensor analysis
+
+🔗 [Repo](https://github.com/harshkdev/REPO_NAME) • 🚀 [Demo](#)
 
 </td>
 
@@ -208,36 +182,34 @@ AI-powered monitoring system that predicts equipment failures before they occur.
 <td width="50%">
 
 ### 🌱 Smart Agriculture & Irrigation System
-
 An IoT solution for monitoring soil conditions and automating irrigation.
 
 **Tech Stack**
-
 `IoT` `Sensors` `Web Dashboard`
 
 **Highlights**
-
 - 🌾 Soil moisture monitoring
 - 💧 Automatic irrigation
 - 📊 Live dashboard
+
+🔗 [Repo](https://github.com/harshkdev/REPO_NAME) • 🚀 [Demo](#)
 
 </td>
 
 <td width="50%">
 
 ### 🎭 AI Deepfake Detection System
-
 AI-based system to identify manipulated images and videos.
 
 **Tech Stack**
-
 `Python` `TensorFlow` `OpenCV`
 
 **Highlights**
-
 - 🤖 Deepfake detection
 - 🎥 Video analysis
 - 📈 High accuracy prediction
+
+🔗 [Repo](https://github.com/harshkdev/REPO_NAME) • 🚀 [Demo](#)
 
 </td>
 
@@ -247,15 +219,13 @@ AI-based system to identify manipulated images and videos.
 
 <td colspan="2">
 
-### 🛰️ ISRO Hackathon Project
-
-**Route Resilience using AI & Satellite Imagery**
-
+### 🛰️ ISRO Hackathon Project — Route Resilience using AI & Satellite Imagery
 An AI-powered pipeline that reconstructs hidden road networks from satellite imagery and converts them into graph structures for disaster response and infrastructure resilience analysis.
 
 **Tech Stack**
-
 `PyTorch` `OpenCV` `NetworkX` `Deep Learning`
+
+🔗 [Repo](https://github.com/harshkdev/REPO_NAME) • 🚀 [Demo](#)
 
 </td>
 
@@ -265,44 +235,28 @@ An AI-powered pipeline that reconstructs hidden road networks from satellite ima
 
 ---
 
-# 🏆 Experience
-
-🏅 Participated in **4+ National & College Hackathons**
-
-💻 Built **5+ Real-World Projects**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-☕ Strong interest in **Java Backend Development**
-
-🌐 Passionate about **Full-Stack Web Development**
-
----
-
 # 📚 Currently Learning
 
 ```text
 ███████████████░░░░░░░░░░  Java DSA
-
 ████████████░░░░░░░░░░░░░  Spring Boot
-
-███████████░░░░░░░░░░░░░░ React
-
-██████████░░░░░░░░░░░░░░░ AI / ML
-
-████████░░░░░░░░░░░░░░░░░ System Design
+███████████░░░░░░░░░░░░░░  React
+██████████░░░░░░░░░░░░░░░  AI / ML
+████████░░░░░░░░░░░░░░░░░  System Design
 ```
 
 ---
 
 # 🌟 Goals for 2026
 
-- ✅ Crack a Software Engineering Internship
-- ✅ Master Java + Spring Boot
-- ✅ Solve 300+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Build Production-Ready Full-Stack Applications
-- ✅ Strengthen AI/ML Skills
+- 🎯 Crack a Software Engineering Internship
+- 🎯 Master Java + Spring Boot
+- 🎯 Solve 300+ DSA Problems
+- 🎯 Contribute to Open Source
+- 🎯 Build Production-Ready Full-Stack Applications
+- 🎯 Strengthen AI/ML Skills
+
+<!-- 💡 Tip: swap 🎯 → ✅ as you actually complete each goal -->
 
 ---
 
@@ -315,4 +269,3 @@ An AI-powered pipeline that reconstructs hidden road networks from satellite ima
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
-
